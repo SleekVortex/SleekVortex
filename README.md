@@ -18,7 +18,7 @@
 I am a Data scienits <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: I’m working as a Data Scientist, building models and getting predictions.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I’m exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on CodeWars and read tech articles.
 
