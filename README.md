@@ -15,7 +15,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Data scienits <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a Data scienits / ML engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: I’m working as a Data Scientist, building models and getting predictions.
 
 - :seedling: I’m exploring Technical Content Writing.
